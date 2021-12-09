@@ -1,0 +1,10 @@
+The objective of this game is to build up a new society with the vacuums of a once thriving Earth.
+Aquiring resources at spherical (placeholder) nodes gives you the materials you need to rebuild.
+Direct your people to these nodes in order to collect the resources you need.
+Some structures will give you the chance to experience another person's story, their woes; make
+sure to take the words of your people to heart by giving them the attention they need.
+
+Future Planned Updates:
+- Branching Dialogue that leads you down the story of your vacuum city, in demise or growth...
+- Building improvements that allow you to create the submarine steampunk monoliths you expect to
+see from the Mainline In Hot Waters game and initial storyworld pitch.
